@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/practicas-react/static/css/main.b6a2d365.css",
+    "main.css": "/practicas-react/static/css/main.ff0892d6.css",
     "main.js": "/practicas-react/static/js/main.5e5295b5.js",
     "static/media/spinner.gif": "/practicas-react/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
     "static/media/bg.jpg": "/practicas-react/static/media/bg.085908ea8f76e1ae1806.jpg",
     "static/media/logo.png": "/practicas-react/static/media/logo.e6ecab4407f10ecd02bd.png",
     "index.html": "/practicas-react/index.html",
-    "main.b6a2d365.css.map": "/practicas-react/static/css/main.b6a2d365.css.map",
+    "main.ff0892d6.css.map": "/practicas-react/static/css/main.ff0892d6.css.map",
     "main.5e5295b5.js.map": "/practicas-react/static/js/main.5e5295b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6a2d365.css",
+    "static/css/main.ff0892d6.css",
     "static/js/main.5e5295b5.js"
   ]
 }
